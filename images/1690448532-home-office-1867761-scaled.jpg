@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+  <head>
+    <script
+      defer
+      src="https://www.googletagmanager.com/gtag/js?id=G-ELXN4TQY2D"
+    ></script>
+    <script defer>
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () {
+        dataLayer.push(arguments);
+      };
+      gtag('js', new Date());
+      gtag('config', 'G-ELXN4TQY2D');
+    </script>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="chatmindai您的智能助手，为您提供办公学习上的帮助。支持文件输入、语音输入等多模态交互方式，为您解决各种问题。立即尝试，提高60%学习效率！多种角色扮演，丰富的AI角色市场，更好的AI陪伴，更好的UI体验。"
+    />
+    <meta name="Keywords" content="ChatMindAI,AI角色扮演,AI聊天助手" />
+    <link rel="icon" type="image/svg+xml" href="./Logo.png" />
+    <meta
+      name="google-site-verification"
+      content="HqFkakmh_ztI7dAEVaEUVguu7TdXD9_Xnsn97HP_HqA"
+    />
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+    <link rel="apple-touch-icon" href="./Logo.png" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap"
+      rel="stylesheet"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover"
+    />
+    <title>ChatMindAI-智慧学习，办公无忧，AIGC让生活更简单</title>
+    <script type="module" crossorigin src="./index.a7c28897.js"></script>
+    <link rel="stylesheet" href="./index.90b6d47f.css">
+  </head>
+  <body>
+    <script defer src="./pdf.js"></script>
+    <script defer src="./getEnv.js"></script>
+    <script defer src="./qrcode.min.js"></script>
+    <div id="root" style="width: 100%; height: 100%"></div>
+    
+  </body>
+</html>
